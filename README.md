@@ -1,8 +1,8 @@
 ## Halo!
 
-### Aku **Chiryl**.<br>
+### Saya **Chiryl**.<br>
 
-Seorang mahasiswa fakultas Ilmu Komputer di **Universitas Mercu Buana** yang saat ini masih dalam tahap mendalami materi terkait Mobile Development.
+Mahasiswa Fakultas Ilmu Komputer di **Universitas Mercu Buana** yang antusias dengan Android Development.
 
 ### Github Statistic
 <p align="left">
